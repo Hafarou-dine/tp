@@ -1,5 +1,5 @@
 body{
-    background-image: radial-gradient(to bottom center, #CCDAE0, #EDF2F4);
+    background-image: radial-gradient(circle at top center, #CCDAE0 , #EDF2F4);
 }
 
 header{
@@ -49,4 +49,8 @@ a:visited{
 
 a:hover{
     color: #2B2D42;
+}
+
+span{
+    color:red;
 }
